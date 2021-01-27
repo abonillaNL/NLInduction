@@ -1,0 +1,4 @@
+Nombre          Apellido            Teléfono
+Pepe            Pepito              XXXXX
+Jose            Algo                ZZZZZ
+María           Nose                HHHHH
